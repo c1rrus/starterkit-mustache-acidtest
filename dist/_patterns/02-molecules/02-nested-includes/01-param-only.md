@@ -1,0 +1,3 @@
+Includes `molecules-adjacent` using pattern parameters to override the value of `bar` (to **3**). This pattern does _not_ have any adjacent data file.
+
+Since the included patterns' adjacent data file should be ignored, the values for `foo` and `baz` should fall back on what is provided in `data.json`. The pattern parameter on the include should however set the value of `bar`. The expected result is therefore: **1, 3, 1**
