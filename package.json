@@ -1,0 +1,24 @@
+{
+  "name": "starterkit-mustache-acidtest",
+  "version": "0.0.1",
+  "description": "Acid test patterns for PatternLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c1rrus/starterkit-mustache-acidtest.git"
+  },
+  "keywords": [
+    "patternlab",
+    "starterkit",
+    "test"
+  ],
+  "author": "James Nash <cirrus@twiddles.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c1rrus/starterkit-mustache-acidtest/issues"
+  },
+  "homepage": "https://github.com/c1rrus/starterkit-mustache-acidtest#readme"
+}
