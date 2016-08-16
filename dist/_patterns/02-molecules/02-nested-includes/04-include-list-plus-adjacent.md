@@ -1,3 +1,3 @@
-Includes `atoms-listitems` and has its own adjacent JSON file, which provides values for `foo`, `bar` and `baz` (**2** for all three of them).
+Includes `atoms-list` and has its own adjacent JSON file, which provides values for `foo`, `bar` and `baz` (**2** for all three of them).
 
 When viewed directly, a list of 4 set of values should be shown. The first (`foo`) value for each will be randomly chosen from `listitem.json` (ignoring, the adjacent JSON file's value for `foo`), the other two (`bar` and `baz`) should however take their values from the adjacent JSON file. The 4 sets should therefore be: _**(101 - 112)**_, **2**, **2**
