@@ -13,5 +13,6 @@ The Pattern Lab maintainers liked this idea and [have voted on creating an "acid
 ## Setup
 You should be able to install this starter kit via your preferred Pattern Lab / Node Edition. For instance, with the [Gulp edition](https://github.com/pattern-lab/edition-node-gulp), you can do:
 
-* `gulp patternlab:loadstarterkit --kit=c1rrus/starterkit-mustache-acidtest`
+* `npm install c1rrus/starterkit-mustache-acidtest`
+* `gulp patternlab:loadstarterkit --kit=starterkit-mustache-acidtest`
 
