@@ -1,0 +1,3 @@
+Includes `atoms-basic` within a `{{listitems.four}}` loop. The root `listitems.json` file provides values for `foo` only (ranging from 101 - 112).
+
+When viewed directly, a list of 4 set of values should be shown. The first (`foo`) value for each will be randomly chosen from `listitem.json`, the other two (`bar` and `baz`) should fall back on the values from `data.json`. The 4 sets should be: _**(101 - 112)**_, **1**, **1**
